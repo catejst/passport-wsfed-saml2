@@ -31,7 +31,7 @@
     "xml2js": "0.1.x",
     "xmldom": "auth0/xmldom#v0.1.19-auth0.2",
     "xpath": "0.0.5",
-    "xtend": "~2.0.3"
+    "xtend": "~2.2.0"
   },
   "devDependencies": {
     "chai": "2.x.x",
