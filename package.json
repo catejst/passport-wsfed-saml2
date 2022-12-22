@@ -21,7 +21,7 @@
   "main": "./lib/passport-wsfed-saml2",
   "dependencies": {
     "ejs": "2.5.5",
-    "jsonwebtoken": "~5.0.4",
+    "jsonwebtoken": "~9.0.0",
     "node-forge": "^0.10.0",
     "passport-strategy": "^1.0.0",
     "uid2": "0.0.x",
