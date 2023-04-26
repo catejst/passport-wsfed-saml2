@@ -28,7 +28,7 @@
     "valid-url": "^1.0.9",
     "xml-crypto": "auth0/xml-crypto#v1.4.1-auth0.2",
     "xml-encryption": "^1.2.1",
-    "xml2js": "0.1.x",
+    "xml2js": "0.5.0",
     "xmldom": "auth0/xmldom#v0.1.19-auth0.2",
     "xpath": "0.0.5",
     "xtend": "~2.0.3"
